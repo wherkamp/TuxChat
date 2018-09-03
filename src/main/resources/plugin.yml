@@ -1,8 +1,0 @@
-name: TuxChat
-version: ${project.version}
-main: me.kingtux.tuxchat.TuxChat
-loadbefore: [PlaceholderAPI]
-depend: [PlaceholderAPI]
-authors: [KingTux]
-description: A simple Chat plugin
-website: https://kingtux.me
